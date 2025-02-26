@@ -19,8 +19,8 @@ Features
 
 🔧 How to Use
   Clone the repository: git clone https://github.com/your-username/mp3-player.git
-•Open index.html in your browser.
-•Enjoy your music! 🎶
+  •Open index.html in your browser.
+  •Enjoy your music! 🎶
 
 🎯 Future Improvements
 •Volume control
